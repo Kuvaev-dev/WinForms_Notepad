@@ -1,0 +1,20 @@
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\bin\Debug\Notepad_Kuvaev.exe.config
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\bin\Debug\Notepad_Kuvaev.exe
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\bin\Debug\Notepad_Kuvaev.pdb
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.csprojAssemblyReference.cache
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.Properties.Resources.resources
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.csproj.GenerateResource.cache
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.csproj.CoreCompileInputs.cache
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.exe
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.pdb
+D:\Программирование\Мои проекты на C#\Notepad_Kuvaev\obj\Debug\Notepad_Kuvaev.Notepad.resources
+D:\Программирование\Мои проекты на C#\My Notepad\bin\Debug\Notepad_Kuvaev.exe.config
+D:\Программирование\Мои проекты на C#\My Notepad\bin\Debug\Notepad_Kuvaev.exe
+D:\Программирование\Мои проекты на C#\My Notepad\bin\Debug\Notepad_Kuvaev.pdb
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.csprojAssemblyReference.cache
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.Notepad.resources
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.Properties.Resources.resources
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.csproj.GenerateResource.cache
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.csproj.CoreCompileInputs.cache
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.exe
+D:\Программирование\Мои проекты на C#\My Notepad\obj\Debug\Notepad_Kuvaev.pdb
